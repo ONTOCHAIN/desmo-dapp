@@ -1,5 +1,8 @@
 <img src="https://github.com/vaimee/desmo/blob/main/imgs/desmo-logo.png" width="40%" alt='DESMO'/>
 
+# Not matained NOTICE: We do not keep this repository up to date.
+This forked repository is used as a archive for the results of the ONTOCHAIN open call 2
+
 # DESMO-LD DApp - Iexec Oracle implementation
 
 <a href="https://github.com/vaimee/desmo-dapp/issues" target="_blank"><img src="https://img.shields.io/github/issues/vaimee/desmo-dapp.svg?style=flat-square" alt="Issues" /></a>
